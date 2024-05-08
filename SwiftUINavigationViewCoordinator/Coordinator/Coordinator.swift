@@ -41,9 +41,9 @@ final class Coordinator: ObservableObject {
     func push(destination: Destination) {
         self.destination = destination
         if isRoot {
-            rootNavigationTrigger.toggle()
+            rootNavigationTrigger = true
         } else {
-            navigationTrigger.toggle()
+            navigationTrigger = true
         }
     }
     
