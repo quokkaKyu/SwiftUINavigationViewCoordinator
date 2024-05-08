@@ -4,7 +4,7 @@ import SwiftUI
 struct SwiftUINavigationViewCoordinatorApp: App {
     var body: some Scene {
         WindowGroup {
-            FirstView()
+            ContentView()
         }
     }
 }
