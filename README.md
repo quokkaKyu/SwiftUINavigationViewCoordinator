@@ -1,6 +1,6 @@
 # SwiftUINavigationController
 
-iOS16 미만 버전에서 사용할 SwiftUI NavigationView Coordinator를 만들어봤습니다. 뷰가 많아지면 뷰의 이동을 관리하기가 어렵습니다. 그래서 뷰의 이동을 관리하여 유지보수하기 쉬운 코드를 작성하고 싶어 Coordinator를 도입하게 되었습니다. SwiftUI로 만든 프로젝트에 해당 기술을 적용했었는데 유용하게 사용한 경험이 있어서 공유합니다. 프로젝트는 https://github.com/urijan44/SwiftUICoordinator.git를 참고하여 만들었습니다. 더 자세한 내용을 원하시면 해당사이트를 참고해주세요.
+블로그: https://velog.io/@quokka/SwiftUI-NavigationView-Coordinator
 
 <img src="/Resource/app.gif" width="30%" height="30%"/>
 
